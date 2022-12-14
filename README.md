@@ -30,7 +30,7 @@ Step 9: By using scale tool move those faces inwards so we get the shape of the 
 Step 10: Repeat the same thing with scale tool in the bottom the can.
 
 ### Output
-![Exp-6](https://user-images.githubusercontent.com/117753537/207110955-546ab929-967d-4e5f-bfac-0a0a01fb819c.jpeg)
+![Exp-2](https://drive.google.com/file/d/1YD9kG8jU0gQ5gfY7Ezw1X6O6rstuOmyg/view?usp=share_link)
 
 ### Result
 Thus a boat is created from maya and made to float successfully in Unreal Engine.
