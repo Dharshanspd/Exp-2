@@ -1,3 +1,4 @@
+
 # Game-Programming
 
 ### EXP NO: 06
@@ -30,7 +31,7 @@ Step 9: By using scale tool move those faces inwards so we get the shape of the 
 Step 10: Repeat the same thing with scale tool in the bottom the can.
 
 ### Output
-![Exp-2](https://drive.google.com/file/d/1YD9kG8jU0gQ5gfY7Ezw1X6O6rstuOmyg/view?usp=share_link)
+![IMG_20221214_103316](https://user-images.githubusercontent.com/95409089/207511280-b8f3c800-5903-4771-bb21-f510fa5abdfe.jpg)
 
 ### Result
 Thus a boat is created from maya and made to float successfully in Unreal Engine.
